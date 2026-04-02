@@ -1,2 +1,2 @@
 # password-validator-c
-A simple password validator written in C.
+Simple password validation project in C using functions, loops, and strings.
