@@ -80,7 +80,7 @@ if(isValidpassword(password)){
 printf("!PASSWORD ACCEPTED!");
 }
 else{
-    printf("!PASSWORD REJECTED!");
+ printf("!PASSWORD REJECTED!");
 }
 
 
